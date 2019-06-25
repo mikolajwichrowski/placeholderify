@@ -70,5 +70,6 @@ def index():
             request.args.get('back')
         ), mimetype='image/png')
 
-if __name__ == '__main__':
-    app.run(debug=True)
+if __name__ == "__main__":
+    # You can change port here
+    app.run(debug=True, host='127.0.0.1', port=5000) 
