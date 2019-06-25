@@ -11,3 +11,5 @@ cmd/terminal:
 `python3 main.py` or `python main.py`
 just make sure you have python3 (you prpbly have tho)
 __________________________________________________________________
+Dont forget to
+`pip3 install -r requirements.txt` or `pip install -r requirements.txt`
