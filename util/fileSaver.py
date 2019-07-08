@@ -3,4 +3,4 @@ import numpy
 from PIL import Image
 
 def generate_from_img(img, title):
-    img.save(title)
+    img.save("images/{}".format(title))
