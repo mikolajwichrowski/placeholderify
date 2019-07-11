@@ -7,7 +7,7 @@ http://localhost:5000/?text=Foo&font=15&size=100x100&fore=FFFFFF&back=AAAAAA
 Or change the query options
 
 # Support me
-*I u want, you can:*
+*If u want, you can:*
 
 [![Buy Me A Coffee](bmc.png)](https://www.buymeacoffee.com/TXJ4cEK) 
 
