@@ -12,7 +12,7 @@ Or change the query options
 [![Buy Me A Coffee](bmc.png)](https://www.buymeacoffee.com/TXJ4cEK) 
 
 
-# Stuff i used to make this
+# Stuff I used to make this
 I used:
 - Flask==1.0.3
 - webcolors==1.9.1
